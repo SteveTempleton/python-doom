@@ -1,6 +1,7 @@
 from settings import *
 from level_data import LevelData
 from map_renderer import MapRenderer
+from bsp.bsp_builder import BSPTreeBuilder
 
 
 class Engine:
@@ -8,6 +9,7 @@ class Engine:
         self.app = app
         #
         self.level_data = LevelData(self)
+        self.bsp_builder = BSPTreeBuilder(self)
         self.map_renderer = MapRenderer(self)
 
     def update(self):

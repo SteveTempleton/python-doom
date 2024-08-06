@@ -1,0 +1,5 @@
+
+Сpython:S2208"GImport only needed names or import the module and then use its members.(ЎеЃ„ы€€€€8джнƒТ2J$fc8fba11-ac5a-4d29-9466-1cbbf76bbd59
+dpython:S3626*"Remove this redundant continue.(јЦђИ8Ф≠эƒТ2J$7e050513-0819-48a5-8440-f918f19a15dc
+ypython:S1481"/Remove the unused local variable "segment_end".(ХѕСљь€€€€8ежнƒТ2J$13031391-0e0c-4ac7-8caf-e6d0a9a9ab0b
+Бpython:S1481"7Replace the unused local variable "back_segs" with "_".(ВСо‘ь€€€€8ежнƒТ2J$b62ff3a9-56cf-40b8-b1a4-69a9389f786a

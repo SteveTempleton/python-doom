@@ -1,7 +1,7 @@
 
-‘python:S2208"GImport only needed names or import the module and then use its members.(Øå®×ûÿÿÿÿ8´ì³®’2J$db8af1ca-9118-42bf-8704-0b1587f85efb
-python:S3776%"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(İ´çÊÿÿÿÿÿ8µì³®’2J$b0e10d91-e3d0-4329-87b7-736371f6747f
-python:S3358*"IExtract this nested conditional expression into an independent statement.(ùã¤î8µì³®’2J$2658fd1b-3db9-4e21-b07f-eebfb5c4e3ce
-“python:S3358+"IExtract this nested conditional expression into an independent statement.(û«ö˜ıÿÿÿÿ8µì³®’2J$17065990-7eb0-46f0-a4ac-e64987169158
-python:S3358-"IExtract this nested conditional expression into an independent statement.( Ê–»8µì³®’2J$15425e74-aeac-458e-80c9-39a26a40d279
-“python:S3358."IExtract this nested conditional expression into an independent statement.(İ±ÿúÿÿÿÿ8µì³®’2J$ebd7eafa-8dc6-437b-9c7c-1ce2cabc09d1
+kpython:S2208"GImport only needed names or import the module and then use its members.(Øå®×ûÿÿÿÿ8ğÓ®’2
+xpython:S37760"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(İ´çÊÿÿÿÿÿ8ğÓ®’2
+hpython:S33585"IExtract this nested conditional expression into an independent statement.(ùã¤î8ŸğÓ®’2
+mpython:S33586"IExtract this nested conditional expression into an independent statement.(û«ö˜ıÿÿÿÿ8¢ğÓ®’2
+hpython:S33588"IExtract this nested conditional expression into an independent statement.( Ê–»8¦ğÓ®’2
+mpython:S33589"IExtract this nested conditional expression into an independent statement.(İ±ÿúÿÿÿÿ8ªğÓ®’2

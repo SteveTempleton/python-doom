@@ -1,2 +1,4 @@
 
-‘python:S2208"GImport only needed names or import the module and then use its members.(Øå®×ûÿÿÿÿ8µŒÆ­’2J$e860acfb-bcf7-4b9c-80ae-3600522a8cae
+‘python:S2208"GImport only needed names or import the module and then use its members.(Øå®×ûÿÿÿÿ8¼™¥Ä’2J$34182e51-4152-492a-8547-b643bef63ed9
+¬python:S5890"bReplace the type hint "BSPNode" with "Optional[BSPNode]" or don't assign "None" to this expression(úºèâùÿÿÿÿ8ãÃ¥Ä’2J$40894ab4-99a2-4e70-938f-611118518b5e
+§python:S5890"bReplace the type hint "BSPNode" with "Optional[BSPNode]" or don't assign "None" to this expression(‚ºÅ8àñ¥Ä’2J$16c89d6a-aefd-4e13-86e8-ce92589065f8
