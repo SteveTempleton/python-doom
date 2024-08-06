@@ -19,3 +19,5 @@ D
 bsp/bsp_traverser.py,f\c\fcde32624a7fc186ac803d3221bdcf43db418fd3
 8
 utils.py,5\0\5031d0ea937a7fcbe0a14f778442700216efff7a
+;
+.gitirgnore,4\a\4ad9b5218ddb398b44191faffb5c3fe77e4a6141
