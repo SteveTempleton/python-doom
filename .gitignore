@@ -1,2 +1,5 @@
 # JetBrains IDE
 .idea/
+
+# virtual environment
+.venv/
